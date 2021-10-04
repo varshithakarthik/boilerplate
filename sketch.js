@@ -62,6 +62,6 @@ bullet.velocity=0;
   }
   
   if(damage<10){
-  wall.shapeColor=color()0,225,0);
+  wall.shapeColor=color(0,225,0);
   }
 }
