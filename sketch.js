@@ -50,7 +50,7 @@ function hasCollided(lbullet,lwall){
   if(bulletRightEdge>+wallLeftEdge){
     return true
   }
-   return flase
+   return false
 }
 
 if(hasCollided(bullet,wall)){
